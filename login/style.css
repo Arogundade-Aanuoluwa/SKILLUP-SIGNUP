@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  body {
+    height: 100vh;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("https://thestatetimes.com/wp-content/uploads/2018/02/infotech.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  input {
+    display: block;
+    width: 65%;
+    height: 40px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+  }
+  h1{
+    color: black;
+    background-color: rgb(61, 65, 130);
+    margin-bottom: 40px;
+    width: 15%;
+    margin-left: 500px;
+  }
+  #Aanu{
+    margin-left: 100px;
+    margin-bottom: 40px;
+  }
+  button{
+    width: 20%;
+    height: 30px;
+    margin-left: 400px;
+    background-color: rgb(133, 133, 222);
+  }
+ 

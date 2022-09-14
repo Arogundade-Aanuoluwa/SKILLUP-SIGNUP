@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("https://thestatetimes.com/wp-content/uploads/2018/02/infotech.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  input {
+    height: 40px;
+    display: block;
+    margin-right: 3rem;
+    margin-bottom: 2rem;
+    width: 25rem;
+    border-radius: 9px;
+  }
+  button {
+    height: 50px;
+    width: 9rem;
+    margin-left: 6rem;
+    border-radius: 3px;
+    background-color: rgb(44, 188, 44);
+    border-style: hidden;
+    color: beige;
+    font-size: 19px;
+  }
